@@ -1,0 +1,156 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Get a free hosted Postgres database in seconds: `npx create-db`
+
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model Paper {
+
+  id Int @id @default(autoincrement())
+
+  title String
+
+  authors String[]
+
+  year Int?
+
+  sourceUrl String?
+
+  abstract String?
+
+  rawText String
+
+  createdAt DateTime @default(now())
+
+  updatedAt DateTime @updatedAt
+
+  claims Claim[]
+
+  @@index([year])
+
+}
+
+model Claim {
+  id Int @id @default(autoincrement())
+
+  paperId Int
+
+  paper Paper @relation(fields: [paperId], references: [id], onDelete: Cascade)
+
+  text String
+
+  claimType ClaimType
+
+  section Section
+
+  confidence Float
+
+  embedding ClaimEmbedding?
+
+  outgoingRelationships ClaimRelationship[] @relation("Outgoing")
+
+  incomingRelationships ClaimRelationship[] @relation("Incoming")
+
+  createdAt DateTime @default(now())
+
+  updatedAt DateTime @updatedAt
+
+  @@index([paperId])
+}
+
+model ClaimEmbedding {
+
+  id Int @id @default(autoincrement())
+
+  claimId Int @unique
+
+  claim Claim @relation(fields: [claimId], references: [id], onDelete: Cascade)
+
+  provider EmbeddingProvider
+
+  dimensions Int
+
+  vector Unsupported("vector")
+
+  createdAt DateTime @default(now())
+
+}
+model ClaimRelationship {
+  id Int @id @default(autoincrement())
+
+  sourceClaimId Int
+  targetClaimId Int
+
+  source Claim @relation("Outgoing", fields: [sourceClaimId], references: [id], onDelete: Cascade)
+
+  target Claim @relation("Incoming", fields: [targetClaimId], references: [id], onDelete: Cascade)
+
+  relationship RelationshipType
+
+  confidence Float
+
+  reasoning String
+
+  createdAt DateTime @default(now())
+
+  @@index([sourceClaimId])
+  @@index([targetClaimId])
+
+  @@unique([sourceClaimId, targetClaimId])
+}
+
+enum ClaimType {
+
+  EMPIRICAL
+
+  THEORETICAL
+
+  METHODOLOGICAL
+
+}
+
+enum Section {
+
+  ABSTRACT
+
+  INTRODUCTION
+
+  RESULTS
+
+  DISCUSSION
+
+  CONCLUSION
+
+}
+
+enum RelationshipType {
+
+  AGREES
+
+  CONTRADICTS
+
+  SUPERSEDES
+
+  SUPPORTS
+
+  UNRELATED
+
+}
+
+enum EmbeddingProvider {
+
+  SPECTER2
+
+  VOYAGE
+
+  OPENAI
+
+}
