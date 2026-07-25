@@ -7,7 +7,7 @@ const prisma = new PrismaClient({
     connectionString: process.env.DATABASE_URL!,
   }),
 });
-const VALIDATED_DIR = path.join(__dirname, "../output/validated");
+const OUTPUT_DIR = path.resolve(process.cwd(), "output");
 
 interface ValidatedRecord {
   filename: string;
