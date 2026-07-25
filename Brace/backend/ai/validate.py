@@ -3,7 +3,6 @@ from dataclasses import dataclass, field
 ALLOWED_CLAIM_TYPES = {"EMPIRICAL", "THEORETICAL", "METHODOLOGICAL"}
 ALLOWED_SECTIONS = {"ABSTRACT", "INTRODUCTION", "RESULTS", "DISCUSSION", "CONCLUSION"}
 
-
 @dataclass
 class ValidationResult:
     valid: bool

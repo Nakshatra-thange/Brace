@@ -1,0 +1,74 @@
+{
+    "filename": "68a8c44bb0799ad3bf5ce757ebf6448af56b.pdf",
+    "claims": {
+        "paper": {
+            "title": "Loneliness, Hopelessness, and Meaning in Life among Young Adults Following a Romantic Breakup",
+            "authors": [
+                "Muhammad Doddy H.",
+                "Akbar R. F.",
+                "Sastri P. D."
+            ],
+            "year": 2026,
+            "journal": "International Journal of Marketing & Human Resource Research",
+            "doi": null
+        },
+        "claims": [
+            {
+                "text": "Loneliness is negatively associated with meaning in life among young adults following a romantic breakup.",
+                "type": "EMPIRICAL",
+                "section": "ABSTRACT",
+                "confidence": 0.95,
+                "evidence": "The results showed that loneliness was negatively associated with meaning in life"
+            },
+            {
+                "text": "Loneliness does not make a significant unique contribution to meaning in life when hopelessness is included in the regression model.",
+                "type": "EMPIRICAL",
+                "section": "ABSTRACT",
+                "confidence": 0.95,
+                "evidence": "loneliness was negatively associated with meaning in life, although it did not make a significant unique contribution when hopelessness was included in the regression model"
+            },
+            {
+                "text": "Hopelessness emerged as a significant negative predictor and the strongest variable in predicting meaning in life after romantic breakup.",
+                "type": "EMPIRICAL",
+                "section": "ABSTRACT",
+                "confidence": 0.95,
+                "evidence": "Hopelessness, in contrast, emerged as a significant negative predictor and the strongest variable in the model"
+            },
+            {
+                "text": "Loneliness and hopelessness together explained 49.2% of the variance in meaning in life among young adults after romantic breakup.",
+                "type": "EMPIRICAL",
+                "section": "ABSTRACT",
+                "confidence": 0.95,
+                "evidence": "Together, loneliness and hopelessness explained 49.2% of the variance in meaning in life"
+            },
+            {
+                "text": "Hopelessness is more strongly related to the Presence of Meaning than to the Search for Meaning dimension among young adults following romantic breakup.",
+                "type": "EMPIRICAL",
+                "section": "ABSTRACT",
+                "confidence": 0.9,
+                "evidence": "Additional findings indicated that hopelessness was more strongly related to the Presence of Meaning than to the Search for Meaning"
+            },
+            {
+                "text": "Meaning in life after a romantic breakup is more closely associated with hope, future orientation, and confidence in the possibility of a better life than with loneliness alone.",
+                "type": "THEORETICAL",
+                "section": "ABSTRACT",
+                "confidence": 0.9,
+                "evidence": "meaning in life after a romantic breakup is more closely associated with hope, future orientation, and confidence in the possibility of a better life than with loneliness alone"
+            },
+            {
+                "text": "A romantic breakup may represent both an emotional and an existential experience that challenges young adults' ability to preserve or reconstruct meaning in life.",
+                "type": "THEORETICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.85,
+                "evidence": "a romantic breakup may represent both an emotional and an existential experience that challenges young adults' ability to preserve or reconstruct meaning in life"
+            },
+            {
+                "text": "Loneliness represents the relational and emotional dimension of post-breakup adjustment, whereas hopelessness reflects the cognitive and future-oriented dimension.",
+                "type": "THEORETICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.9,
+                "evidence": "loneliness represents the relational and emotional dimension of post-breakup adjustment, whereas hopelessness reflects the cognitive and future-oriented dimension"
+            }
+        ]
+    }
+}

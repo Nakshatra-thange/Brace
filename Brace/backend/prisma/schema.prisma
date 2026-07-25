@@ -15,9 +15,7 @@ datasource db {
 model Paper {
 
   id Int @id @default(autoincrement())
-
   title String
-
   authors String[]
 
   year Int?

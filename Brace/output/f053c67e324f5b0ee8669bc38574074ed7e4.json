@@ -1,0 +1,74 @@
+{
+    "filename": "f053c67e324f5b0ee8669bc38574074ed7e4.pdf",
+    "claims": {
+        "paper": {
+            "title": "Association between love breakup and suicidal ideation in Peruvian medical students: a cross-sectional study during the COVID-19 pandemic",
+            "authors": [
+                "Valladares-Garrido D.",
+                "Zila-Velasque J.P.",
+                "Santander-Hern\u00e1ndez F.M.",
+                "Guevara-Morales M.A.",
+                "Morocho-Alburqueque N.",
+                "Failoc-Rojas V.E.",
+                "Pereira-Victorio C.J.",
+                "Vera-Ponce V.J.",
+                "Le\u00f3n-Figueroa D.A.",
+                "Valladares-Garrido M.J."
+            ],
+            "year": 2024,
+            "journal": "Frontiers in Psychiatry",
+            "doi": "10.3389/fpsyt.2023.1287036"
+        },
+        "claims": [
+            {
+                "text": "Among Peruvian medical students during the COVID-19 pandemic, 19.5% reported a major love breakup and 34.3% had suicidal ideation.",
+                "type": "EMPIRICAL",
+                "section": "RESULTS",
+                "confidence": 0.95,
+                "evidence": "Out of 370 students, 19.5% reported a major love breakup during the pandemic (95%CI: 15.5\u201323.8), and 34.3% had suicidal ideation (95%CI: 29.4\u201339.4)."
+            },
+            {
+                "text": "Experiencing a major love breakup during the COVID-19 pandemic was significantly associated with a 49% higher prevalence of suicidal ideation in Peruvian medical students.",
+                "type": "EMPIRICAL",
+                "section": "RESULTS",
+                "confidence": 0.95,
+                "evidence": "Having a major love breakup was associated with a higher prevalence of suicidal ideation (PR: 1.49, 95%CI: 1.32\u20131.67, p < 0.001)."
+            },
+            {
+                "text": "Moderate insomnia was associated with a 2.56-fold higher prevalence of suicidal ideation in medical students during the pandemic.",
+                "type": "EMPIRICAL",
+                "section": "RESULTS",
+                "confidence": 0.95,
+                "evidence": "Moderate insomnia (PR: 2.56, 95%CI: 1.70\u20133.87, p < 0.001)...were also associated with suicidal ideation."
+            },
+            {
+                "text": "Anxiety symptoms were significantly associated with nearly double the prevalence of suicidal ideation in medical students.",
+                "type": "EMPIRICAL",
+                "section": "RESULTS",
+                "confidence": 0.95,
+                "evidence": "anxiety symptoms (PR: 1.94, 1.10\u20133.44, p = 0.023) were also associated with suicidal ideation."
+            },
+            {
+                "text": "During the COVID-19 pandemic, the incidence of romantic relationship breakups increased due to government-imposed social distancing restrictions that led to staying at home.",
+                "type": "THEORETICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.85,
+                "evidence": "The breakdown of romantic relationships has increased during the pandemic due to government-imposed restrictions such as social distancing that led to staying at home."
+            },
+            {
+                "text": "The termination or breakup of a love relationship can cause physical and mental problems, including suicidal thoughts and behaviors, with impact being even greater in young people such as medical students.",
+                "type": "THEORETICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.9,
+                "evidence": "their termination can cause physical and mental problems, such as suicidal thoughts and behaviors. The impact of rupture is even greater in young people such as medical students."
+            },
+            {
+                "text": "The study's findings emphasize the need for further research to better understand the association between romantic breakups and suicidal ideation and to inform the development of effective suicide prevention policies in medical education.",
+                "type": "THEORETICAL",
+                "section": "CONCLUSION",
+                "confidence": 0.9,
+                "evidence": "This finding emphasizes the need for further research to better understand this association and inform the development of effective suicide prevention policies in medical education."
+            }
+        ]
+    }
+}

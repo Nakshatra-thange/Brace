@@ -1,0 +1,66 @@
+{
+    "filename": "b1db23f0c3e59f3664ac0a33b85acef5a0be.pdf",
+    "claims": {
+        "paper": {
+            "title": "Barthesian Semiotics in Jungkook's \"Somebody\": Love and Heartbreak",
+            "authors": [
+                "Putri A.",
+                "Putri D. W."
+            ],
+            "year": 2025,
+            "journal": "JCP (Jurnal Cahaya Pendidikan)",
+            "doi": "10.33373/chypen.v11i2.7566"
+        },
+        "claims": [
+            {
+                "text": "The song \"Somebody\" challenges traditional romantic narratives by exposing that heartbreak is a complex and changeable experience rather than a simple linear process of healing.",
+                "type": "EMPIRICAL",
+                "section": "ABSTRACT",
+                "confidence": 0.95,
+                "evidence": "The main finding of the study is that the song \"Somebody\" challenges the idea of traditional romantic narratives by exposing that heartbreak is a complex experience, and it is changeable."
+            },
+            {
+                "text": "Through Barthesian Semiotics, the song \"Somebody\" reshapes perceptions of love, loss, and emotional resilience.",
+                "type": "THEORETICAL",
+                "section": "ABSTRACT",
+                "confidence": 0.9,
+                "evidence": "Through this theory of Barthesian Semiotics, the study explored how the song reshapes the perception of love, loss, and emotional resilience."
+            },
+            {
+                "text": "The song \"Somebody\" portrays heartbreak as fragmented, cyclical, and unresolved, contradicting the linear narrative of healing common in popular culture.",
+                "type": "EMPIRICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.92,
+                "evidence": "it ultimately continues to portray heartbreak as fragmented, cyclical and unresolved. This goes against the linear narrative of healing commonplace in popular culture"
+            },
+            {
+                "text": "The song \"Somebody\" asserts counter-narratives by claiming that moving on from heartbreak does not require finding a new partner.",
+                "type": "EMPIRICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.88,
+                "evidence": "it departs, encroaching on the territory of counter-narration by asserting that \"the broken heart is not tragic\" and \"moving on does not require finding a new partner.\""
+            },
+            {
+                "text": "The phrase \"Same back roads, switching lanes\" in \"Somebody\" connotes emotional instability and ambiguity about moving on, describing a stagnant stage where the singer hesitates to continue his love journey while still thinking about the past.",
+                "type": "EMPIRICAL",
+                "section": "RESULTS",
+                "confidence": 0.93,
+                "evidence": "The phrases \"same back roads\" and \"switching lanes\" are about the ambiguity of the singer about moving on. He hesitates to continue his love journey by still thinking about his past."
+            },
+            {
+                "text": "The lyric \"My mind is racing, I can drive myself insane\" demonstrates psychological struggle with overthinking that can lead to self-destruction, representing how the singer vacillates in memories about past feelings.",
+                "type": "EMPIRICAL",
+                "section": "RESULTS",
+                "confidence": 0.91,
+                "evidence": "It demonstrates how the singer struggles with his overthinking self, and it can lead him to self-destruction. This stage describes how the singer always comes back and forth in his memory"
+            },
+            {
+                "text": "The song addresses the myth that love is constructed through memories, exploring how memories can be more devastating than forgiving when people romanticize that love never disappears as long as memories remain.",
+                "type": "EMPIRICAL",
+                "section": "RESULTS",
+                "confidence": 0.89,
+                "evidence": "One of the myths that the song addresses is that love is made by memories. When memories remain, society likes to romanticize that love is never gone...The song explores how memories are sometimes more devastating"
+            }
+        ]
+    }
+}

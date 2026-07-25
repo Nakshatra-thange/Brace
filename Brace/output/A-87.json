@@ -1,0 +1,87 @@
+{
+    "filename": "A-87.pdf",
+    "claims": {
+        "paper": {
+            "title": "How the Brain Feels the Hurt of Heartbreak: Examining the Neurobiological Overlap Between Social and Physical Pain",
+            "authors": [
+                "Tchalova K.",
+                "Eisenberger N.I."
+            ],
+            "year": 2015,
+            "journal": "Brain Mapping: An Encyclopedic Reference",
+            "doi": "10.1016/B978-0-12-397025-1.00144-5"
+        },
+        "claims": [
+            {
+                "text": "Social pain (the distress experienced when social ties are threatened or lost) is elaborated by the same neural and neurochemical substrates involved in processing physical pain.",
+                "type": "THEORETICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.95,
+                "evidence": "social pain \u2013 the profound distress experienced when social ties are absent, threatened, damaged, or lost \u2013 is elaborated by the same neural and neurochemical substrates involved in processing physical pain"
+            },
+            {
+                "text": "The evolutionarily ancient pain signal may have been co-opted to alert humans and other social mammals to the possibility of damage to social relationships, just as physical pain alerts to bodily injury.",
+                "type": "THEORETICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.9,
+                "evidence": "the evolutionarily ancient pain signal, which serves to limit damage to the body, may have been co-opted to alert humans and other social mammals to the possibility of damage to one's social relationships"
+            },
+            {
+                "text": "Morphine attenuates social separation distress (as indexed by distress vocalizations) in a variety of animal species at low, nonsedative doses.",
+                "type": "EMPIRICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.95,
+                "evidence": "Morphine...attenuates social separation distress (as indexed by a characteristic call termed a distress vocalization) in a variety of animal species...with low, nonsedative doses of morphine"
+            },
+            {
+                "text": "Opioid receptor antagonists, which aggravate physical pain, increase distress vocalizations in isolated animals and slow the reduction in distress vocalizations when animals are reunited with companions.",
+                "type": "EMPIRICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.95,
+                "evidence": "opioid receptor antagonists, which are known to aggravate physical pain...increase distress vocalizations in isolated animals...and slow the reduction in distress vocalizations typically seen when animals are reunited"
+            },
+            {
+                "text": "Elimination of the \u03bc-opioid receptor through genetic engineering causes deficits in attachment, including lack of distress vocalizing.",
+                "type": "EMPIRICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.95,
+                "evidence": "elimination of the m-opioid receptor through genetic engineering causes deficits in attachment, including lack of distress vocalizing"
+            },
+            {
+                "text": "Lesions of the dorsal and ventral sections of the anterior cingulate cortex (ACC) reduce distress vocalization rates in animals, while electrical stimulation of the ACC triggers distress vocalizations.",
+                "type": "EMPIRICAL",
+                "section": "RESULTS",
+                "confidence": 0.95,
+                "evidence": "lesions of the dorsal and ventral sections of the ACC reduce distress vocalization rates...whereas electrical stimulation of the ACC triggers distress vocalizations"
+            },
+            {
+                "text": "During social exclusion in the Cyberball paradigm, participants showed increased activation in the dorsal anterior cingulate cortex (dACC) and anterior insula (AI), with dACC activation positively correlating with self-reported feelings of rejection.",
+                "type": "EMPIRICAL",
+                "section": "RESULTS",
+                "confidence": 0.95,
+                "evidence": "participants who stopped receiving ball tosses...showed increased activation in the dACC and AI...participants' feelings of rejection positively correlated with dACC activation"
+            },
+            {
+                "text": "The affective component of physical pain (processed in the dACC and anterior insula) is more directly involved in social pain experience than the sensory component, although the sensory component plays a role in certain types of social pain.",
+                "type": "THEORETICAL",
+                "section": "RESULTS",
+                "confidence": 0.85,
+                "evidence": "it is probable that the affective component of physical pain is more directly involved in social pain experience, although the sensory component has been shown to play a role in certain types of social pain"
+            },
+            {
+                "text": "Social separation causes a painful, low-opioid state that motivates social proximity seeking and is terminated once social contact is resumed, which prompts the release of endogenous opioids.",
+                "type": "THEORETICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.9,
+                "evidence": "social separation causes a painful, low-opioid state that motivates social proximity seeking and is terminated once social contact is resumed, which prompts the release of endogenous opioids"
+            },
+            {
+                "text": "Cingulate ablation in mice causes deficits in maternal behavior, and lesions to the ACC in monkeys lead to decreases in social interest and proximity seeking.",
+                "type": "EMPIRICAL",
+                "section": "RESULTS",
+                "confidence": 0.9,
+                "evidence": "cingulate ablation in mice causes deficits in maternal behavior...and lesions to the ACC (both dorsal and ventral regions) in monkeys leads to decreases in social interest and proximity seeking"
+            }
+        ]
+    }
+}

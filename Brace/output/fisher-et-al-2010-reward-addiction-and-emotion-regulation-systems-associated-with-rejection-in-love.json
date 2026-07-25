@@ -1,0 +1,76 @@
+{
+    "filename": "fisher-et-al-2010-reward-addiction-and-emotion-regulation-systems-associated-with-rejection-in-love.pdf",
+    "claims": {
+        "paper": {
+            "title": "Reward, Addiction, and Emotion Regulation Systems Associated With Rejection in Love",
+            "authors": [
+                "Fisher H.E.",
+                "Brown L.L.",
+                "Aron A.",
+                "Strong G.",
+                "Mashek D."
+            ],
+            "year": 2010,
+            "journal": "J Neurophysiol",
+            "doi": "10.1152/jn.00784.2009"
+        },
+        "claims": [
+            {
+                "text": "Romantic rejection activates the ventral tegmental area (VTA) bilaterally, suggesting that mesolimbic reward/survival systems are involved in romantic passion regardless of whether one is happily or unhappily in love.",
+                "type": "EMPIRICAL",
+                "section": "ABSTRACT",
+                "confidence": 0.95,
+                "evidence": "Activation specific to the image of the beloved occurred in areas associated with gains and losses, craving and emotion regulation and included the ventral tegmental area (VTA) bilaterally"
+            },
+            {
+                "text": "Activation of brain areas involved in cocaine addiction may help explain the obsessive behaviors associated with rejection in love.",
+                "type": "THEORETICAL",
+                "section": "ABSTRACT",
+                "confidence": 0.9,
+                "evidence": "Activation of areas involved in cocaine addiction may help explain the obsessive behaviors associated with rejection in love."
+            },
+            {
+                "text": "Early-stage romantic love is a goal-oriented motivational state rather than an emotion that uses subcortical mammalian reward/survival systems.",
+                "type": "THEORETICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.92,
+                "evidence": "we used functional magnetic resonance imaging (fMRI) to study 10 women and 7 men who were happily in love and concluded that it was a goal-oriented motivational state (rather than an emotion)"
+            },
+            {
+                "text": "In a study of individuals rejected by a romantic partner within the past 8 weeks, 40% experienced clinically measurable depression, with 12% displaying moderate to severe depression.",
+                "type": "EMPIRICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.95,
+                "evidence": "In a study of 114 men and women who had been rejected by a partner within the past 8 wk, 40% experienced clinically measurable depression; of these, 12% displayed moderate to severe depression"
+            },
+            {
+                "text": "Romantic love is a universal or near-universal human phenomenon, with evidence found in 147 of 166 societies surveyed.",
+                "type": "EMPIRICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.93,
+                "evidence": "In a survey of 166 societies, Jankowiak and Fischer (1998) found evidence of romantic love in 147 of them."
+            },
+            {
+                "text": "Romantic love shares behavioral characteristics with addiction including intensely focused attention, mood swings, craving, obsession, compulsion, distortion of reality, emotional dependence, and loss of self-control.",
+                "type": "THEORETICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.88,
+                "evidence": "Several psychologists regard romantic love as an addiction because it shows addiction characteristics such as the lover's intensely focused attention on a preferred individual, mood swings, craving, obsession"
+            },
+            {
+                "text": "All participants in the rejection study reported thinking about their rejecting partner 85% of their waking hours and yearned for the rejecter to return to them.",
+                "type": "EMPIRICAL",
+                "section": "RESULTS",
+                "confidence": 0.97,
+                "evidence": "All participants responded that they thought about their rejecter 85% of their waking hours. All participants also reported that they yearned for the rejecter to return to them"
+            },
+            {
+                "text": "Romantic rejection activates brain areas associated with gains and losses, craving, and emotion regulation, including the ventral striatum, medial and lateral orbitofrontal/prefrontal cortex, and cingulate gyrus.",
+                "type": "EMPIRICAL",
+                "section": "ABSTRACT",
+                "confidence": 0.94,
+                "evidence": "Activation specific to the image of the beloved occurred in areas associated with gains and losses, craving and emotion regulation and included...ventral striatum, medial and lateral orbitofrontal/prefrontal cortex"
+            }
+        ]
+    }
+}

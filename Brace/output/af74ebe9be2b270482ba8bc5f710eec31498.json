@@ -1,0 +1,78 @@
+{
+    "filename": "af74ebe9be2b270482ba8bc5f710eec31498.pdf",
+    "claims": {
+        "paper": {
+            "title": "\"Broken Heart\" and \"Broken Brain\": Which Connection?",
+            "authors": [
+                "Papadis A.",
+                "Svab S.",
+                "Brugger N.",
+                "Lanz J.",
+                "von Arx R.",
+                "Stamou K.",
+                "Sakellaropoulos S."
+            ],
+            "year": 2022,
+            "journal": "Cardiol Res",
+            "doi": "10.14740/cr1336"
+        },
+        "claims": [
+            {
+                "text": "Takotsubo cardiomyopathy has been associated with a two-fold increased risk for transient global amnesia.",
+                "type": "EMPIRICAL",
+                "section": "DISCUSSION",
+                "confidence": 0.95,
+                "evidence": "TTC has been associated with a two-fold increased risk for TGA"
+            },
+            {
+                "text": "In Takotsubo cardiomyopathy, the pathophysiological mechanism likely resides in a catecholamine storm triggered by emotional or physical stress with consequent activation of hypothalamo-pituitary-adrenal and sympatho-adrenomedullary axis.",
+                "type": "THEORETICAL",
+                "section": "DISCUSSION",
+                "confidence": 0.9,
+                "evidence": "the pathophysiological mechanism resides probably in a catecholamine storm, triggered...by emotional or physical stress with consequent activation of hypotalamo-pituitary-adrenal and sympatho-adrenomedullary axis in TTC"
+            },
+            {
+                "text": "Sympathetic nerve fiber density and beta receptors for circulating adrenaline show an inverse pattern in the myocardium, which could explain the preferential involvement of apical myocardium in Takotsubo cardiomyopathy.",
+                "type": "THEORETICAL",
+                "section": "DISCUSSION",
+                "confidence": 0.85,
+                "evidence": "Sympathetic nerve fiber density and beta receptors for circulating adrenaline show an inverse pattern...This observation could explain the preferential involvement...of the apical myocardium in TTC"
+            },
+            {
+                "text": "A single, common pathological pathway between Takotsubo cardiomyopathy and transient global amnesia is not self-evident, with uncertainty about whether there is a common cause or if one condition elicits the other.",
+                "type": "THEORETICAL",
+                "section": "DISCUSSION",
+                "confidence": 0.95,
+                "evidence": "a single, common pathological pathway between TTC and TGA is not self-evident. In particular, it is unclear whether there is a common cause...or if one condition...could elicit the other"
+            },
+            {
+                "text": "Low cortisol blood levels in patients with chronic stress may represent a compensatory mechanism to avoid hypercortisolism, leaving the adrenaline effect on the heart unbalanced.",
+                "type": "THEORETICAL",
+                "section": "DISCUSSION",
+                "confidence": 0.75,
+                "evidence": "low cortisol blood levels have been reported in patients with chronic stress as a compensatory mechanism to avoid hypercortisolism...thus leaving the adrenaline effect...unbalanced"
+            },
+            {
+                "text": "Beta-blockers may improve long-term cardiac outcome in patients with Takotsubo syndrome but do not show a secondary preventive effect on syndrome recurrence.",
+                "type": "EMPIRICAL",
+                "section": "DISCUSSION",
+                "confidence": 0.85,
+                "evidence": "The same study showed absence of a secondary preventive effect on TTS recurrence even though BBs may improve the long-term cardiac outcome in patients with TTS"
+            },
+            {
+                "text": "There is limited retrospective evidence that beta-blockers could have a benefit on 1-year survival of patients with cardiogenic shock due to Takotsubo syndrome.",
+                "type": "EMPIRICAL",
+                "section": "DISCUSSION",
+                "confidence": 0.7,
+                "evidence": "there is...limited retrospective evidence that the BB could have a benefit on the 1-year survival of patients with cardiogenic shock because of TTS"
+            },
+            {
+                "text": "Early recognition of concomitant Takotsubo cardiomyopathy in asymptomatic patients with primary neurological conditions is clinically important.",
+                "type": "THEORETICAL",
+                "section": "CONCLUSION",
+                "confidence": 0.9,
+                "evidence": "Awareness for the possibility of a concomitant cardiac pathology in asymptomatic patients with primary neurological conditions seems to be important"
+            }
+        ]
+    }
+}

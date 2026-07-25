@@ -1,5 +1,5 @@
 import "dotenv/config";
-import { prisma } from "./db/prisma";
+import { prisma } from "./db/prisma.js";
 
 async function main() {
   await prisma.$connect();

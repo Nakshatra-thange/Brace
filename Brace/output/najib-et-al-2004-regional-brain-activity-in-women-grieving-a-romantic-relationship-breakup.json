@@ -1,0 +1,69 @@
+{
+    "filename": "najib-et-al-2004-regional-brain-activity-in-women-grieving-a-romantic-relationship-breakup.pdf",
+    "claims": {
+        "paper": {
+            "title": "Regional Brain Activity in Women Grieving a Romantic Relationship Breakup",
+            "authors": [
+                "Najib A.",
+                "Lorberbaum J.P.",
+                "Kose S.",
+                "Bohning D.E.",
+                "George M.S."
+            ],
+            "year": 2004,
+            "journal": "American Journal of Psychiatry",
+            "doi": null
+        },
+        "claims": [
+            {
+                "text": "During acute grief, women actively grieving a recent romantic relationship breakup showed increased brain activity in posterior regions including the cerebellum, posterior brainstem, and posterior temporoparietal and occipital brain regions.",
+                "type": "EMPIRICAL",
+                "section": "RESULTS",
+                "confidence": 0.95,
+                "evidence": "Acute grief (grief minus neutral state) was associated with increased group activity in posterior brain regions, including the cerebellum, posterior brainstem, and posterior temporoparietal and occipital brain regions."
+            },
+            {
+                "text": "During acute grief, women showed decreased brain activity in anterior regions including the anterior brainstem, thalamus, striatum, temporal cortex, insula, and dorsal and ventral anterior cingulate/prefrontal cortex.",
+                "type": "EMPIRICAL",
+                "section": "RESULTS",
+                "confidence": 0.95,
+                "evidence": "Decreased activity was more prominent anteriorly and on the left and included the anterior brainstem, thalamus, striatum, temporal cortex, insula, and dorsal and ventral anterior cingulate/prefrontal cortex."
+            },
+            {
+                "text": "Women reporting higher grief levels over the past 2 weeks showed greater brain activity decreases in nearly all regions showing decreases during acute grief.",
+                "type": "EMPIRICAL",
+                "section": "RESULTS",
+                "confidence": 0.9,
+                "evidence": "In nearly all brain regions showing brain activity decreases with acute grief, activity decreases were greater in women reporting higher grief levels over the past 2 weeks."
+            },
+            {
+                "text": "Brain activity changes during acute grief in the cerebellum, anterior temporal cortex, insula, anterior cingulate, and prefrontal cortex are consistent with regions identified in previous sadness imaging studies.",
+                "type": "THEORETICAL",
+                "section": "CONCLUSION",
+                "confidence": 0.9,
+                "evidence": "During acute grief, subjects showed brain activity changes in the cerebellum, anterior temporal cortex, insula, anterior cingulate, and prefrontal cortex, consistent with the hypothesis."
+            },
+            {
+                "text": "Depression may result from a malfunctioning in the normal circuitry for handling sadness, separation, and grief in the brain.",
+                "type": "THEORETICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.85,
+                "evidence": "In the brain, depression may result from a malfunctioning in the normal circuitry for handling sadness, separation, and grief."
+            },
+            {
+                "text": "Grief triggered by loss or separation from a loved one is generally more prolonged than normal sadness and frequently involves depressive-type symptoms lasting from days to several months.",
+                "type": "THEORETICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.9,
+                "evidence": "Grief triggered by a loss or separation from a loved one is generally more prolonged and frequently involves depressive-type symptoms lasting from days to several months."
+            },
+            {
+                "text": "Using blood-oxygen-level-dependent functional MRI to study women actively grieving a romantic relationship breakup while they ruminate about their ex-partner provides a methodological improvement over previous sadness studies that used remote memories.",
+                "type": "METHODOLOGICAL",
+                "section": "INTRODUCTION",
+                "confidence": 0.85,
+                "evidence": "In order to improve on these earlier studies and to examine the brain regions involved in grief while subjects were actually grieving, we imaged women who were currently grieving the loss of a romantic relationship"
+            }
+        ]
+    }
+}
