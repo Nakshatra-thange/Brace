@@ -1,0 +1,65 @@
+{
+    "filename": "3621.full.pdf",
+    "claims": [
+        {
+            "text": "Placebo treatment reduced both social and physical pain, and increased activity in the dorsolateral prefrontal cortex (dlPFC) in both modalities",
+            "type": "empirical",
+            "confidence": 0.95,
+            "evidence": "Direct experimental finding from fMRI study comparing placebo vs control groups"
+        },
+        {
+            "text": "Effects on behavior were mediated by a pathway connecting dlPFC to the PAG",
+            "type": "empirical",
+            "confidence": 0.92,
+            "evidence": "Three-path mediation analysis showed dlPFC mediates placebo effects via PAG activity"
+        },
+        {
+            "text": "Placebo altered the relationship between affect and both dlPFC and PAG activity during social pain",
+            "type": "empirical",
+            "confidence": 0.93,
+            "evidence": "Moderated Path b effects showed different brain-affect relationships in placebo vs control groups"
+        },
+        {
+            "text": "Placebo effects on physical pain depend on pathways connecting prefrontal cortex and periaqueductal gray (PAG)",
+            "type": "theoretical",
+            "confidence": 0.9,
+            "evidence": "Based on established models and confirmed by current mediation findings"
+        },
+        {
+            "text": "Opioidergic PAG activity is implicated in the regulation of social pain",
+            "type": "theoretical",
+            "confidence": 0.88,
+            "evidence": "Referenced from recent work (Hsu et al., 2013) and supported by current PAG findings"
+        },
+        {
+            "text": "Activation patterns in dlPFC mediating placebo effects are modality-specific for social versus physical pain",
+            "type": "empirical",
+            "confidence": 0.91,
+            "evidence": "SVM classifier achieved 80% accuracy discriminating social vs physical pain placebo patterns in dlPFC"
+        },
+        {
+            "text": "Placebo treatment reduced expression of a multivariate social rejection-specific brain pattern",
+            "type": "empirical",
+            "confidence": 0.89,
+            "evidence": "Significant decrease in rejection pattern expression in placebo vs control group post-intervention"
+        },
+        {
+            "text": "Under control treatment, dlPFC, vmPFC/OFC/rACC, and PAG activities were associated with more negative affect, but after placebo treatment, activity in these regions was associated with reduced negative affect",
+            "type": "empirical",
+            "confidence": 0.94,
+            "evidence": "Path b moderation effects showed opposite brain-affect correlations between groups"
+        },
+        {
+            "text": "Multilevel mediation analysis can identify mechanistic pathways underlying placebo effects by testing relationships between treatment, brain activity, and behavioral outcomes",
+            "type": "methodological",
+            "confidence": 0.93,
+            "evidence": "Novel analytical framework successfully identified three-step mechanistic pathways (Paths a, b, ab)"
+        },
+        {
+            "text": "Individuals who experience a targeted romantic rejection are 20 times more likely to develop depression than the general population",
+            "type": "empirical",
+            "confidence": 0.87,
+            "evidence": "Referenced from Slavich et al., 2010 to establish clinical relevance of social rejection"
+        }
+    ]
+}

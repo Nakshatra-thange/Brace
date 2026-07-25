@@ -1,6 +1,5 @@
 import os
-import fitz  # PyMuPDF
-
+import fitz  
 
 def extract_text(pdf_path: str) -> str:
     """Extract text from a PDF using PyMuPDF."""

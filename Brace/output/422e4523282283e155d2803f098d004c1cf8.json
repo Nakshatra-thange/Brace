@@ -1,0 +1,65 @@
+{
+    "filename": "422e4523282283e155d2803f098d004c1cf8.pdf",
+    "claims": [
+        {
+            "text": "Love breakups were the second most common cause of traumatic events in a study with 326 university students between the ages of 17 and 26",
+            "type": "empirical",
+            "confidence": 0.95,
+            "evidence": "Barajas-M\u00e1rquez et al. (2017) found that love breakups were the second most common cause of traumatic events in a study with 326 university students between the ages of 17 and 26"
+        },
+        {
+            "text": "48.2% of a group of Ecuadorian adults experiencing a love breakup suffered from moderate to acute depression",
+            "type": "empirical",
+            "confidence": 0.95,
+            "evidence": "Puente (2017) found that 48.2 % of a group of Ecuadorian adults experiencing a love breakup suffered from moderate to acute depression"
+        },
+        {
+            "text": "Anxiety due to abandonment in Canadian adults experiencing a breakup was related to depression symptoms and the severity and intensity of suicidal ideation",
+            "type": "empirical",
+            "confidence": 0.95,
+            "evidence": "Brassard et al., (2018) found that anxiety due to abandonment in Canadian adults experiencing a breakup was related to depression symptoms and the severity and intensity of suicidal ideation"
+        },
+        {
+            "text": "Therapeutic interventions for love breakups showed a significant decrease in symptoms of depression and anxiety",
+            "type": "empirical",
+            "confidence": 0.9,
+            "evidence": "The studies showed a significant decrease in symptoms of depression and anxiety during the love breakup"
+        },
+        {
+            "text": "Mindfulness meditation was not significantly more effective than relaxation training for post-breakup distress",
+            "type": "empirical",
+            "confidence": 0.95,
+            "evidence": "Falb (2015) identified the first one as not more statistically effective than relaxation"
+        },
+        {
+            "text": "Hatha yoga and mindfulness meditation showed statistically significant differences in reducing rumination associated with love breakups between experimental and control groups",
+            "type": "empirical",
+            "confidence": 0.95,
+            "evidence": "Harris (2015) reported statistically significant differences in the use of Hatha yoga and conscious meditation directed to the decrease in rumination associated with love breakups between the experimental group and the control group"
+        },
+        {
+            "text": "Both emotional regulation intervention and transactional analysis reduced love trauma syndrome with statistically significant differences compared to control groups",
+            "type": "empirical",
+            "confidence": 0.95,
+            "evidence": "Rajabi et al. (2018) found that both emotional-regulatory intervention and the one based in transactional analysis reduced love trauma syndrome finding statistically significant differences with respect to the control group"
+        },
+        {
+            "text": "Participants receiving relationship education about abusive relationships showed higher probability of ending their relationship compared to control group",
+            "type": "empirical",
+            "confidence": 0.9,
+            "evidence": "In the research by Negash et al. (2016), the participants having experienced psychological aggression from their ex-couples and receiving treatment on education in abusive relationships showed more probabilities in breaking up their relationship compared to the control group"
+        },
+        {
+            "text": "Distress due to breakup is related to symptoms of depression, anxiety, sleep disorders, poor academic performance, and disorganized behavior",
+            "type": "empirical",
+            "confidence": 0.9,
+            "evidence": "Field et al. (2011) conducted a non-systematic review...The authors found that distress due to breakup is related to symptoms of depression, anxiety, sleep disorders, poor academic performance, and disorganized behavior"
+        },
+        {
+            "text": "There is an association between adolescent romantic breakups with symptoms of depression and self-harm in women",
+            "type": "empirical",
+            "confidence": 0.9,
+            "evidence": "Mirsu-Paun et al. (2017) conducted a meta-analysis...The authors found an association between adolescent romantic breakups with symptoms of depression and self-harm in women"
+        }
+    ]
+}
