@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 from anthropic import Anthropic
 from dotenv import load_dotenv
@@ -26,14 +27,14 @@ Return valid JSON ONLY.
 Output:
 
 {
-    "claims":[
-        {
-            "text":"",
-            "type":"",
-            "confidence":0.95,
-            "evidence":""
-        }
-    ]
+  "claims": [
+    {
+      "text": "",
+      "type": "",
+      "confidence": 0.95,
+      "evidence": ""
+    }
+  ]
 }
 
 Maximum 10 claims.
@@ -43,15 +44,10 @@ Maximum 10 claims.
 def extract_claims(paper_text):
 
     response = client.messages.create(
-
-        model="claude-sonnet-4-0",
-
+        model="claude-sonnet-4-5-20250929",
         max_tokens=3500,
-
         temperature=0,
-
         system=SYSTEM_PROMPT,
-
         messages=[
             {
                 "role": "user",
@@ -60,8 +56,26 @@ def extract_claims(paper_text):
         ]
     )
 
-    text = response.content[0].text
+    text = response.content[0].text.strip()
 
-    data = json.loads(text)
+    print("\n========== CLAUDE RESPONSE ==========\n")
+    print(text)
+    print("\n=====================================\n")
+
+    # Remove markdown code fences
+    text = re.sub(r"^```json\s*", "", text)
+    text = re.sub(r"^```\s*", "", text)
+    text = re.sub(r"\s*```$", "", text)
+
+    # Find JSON object
+    start = text.find("{")
+    end = text.rfind("}")
+
+    if start == -1 or end == -1:
+        raise Exception(f"No JSON found.\n\nClaude returned:\n{text}")
+
+    json_text = text[start:end + 1]
+
+    data = json.loads(json_text)
 
     return data["claims"]
